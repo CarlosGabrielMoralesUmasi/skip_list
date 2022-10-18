@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\micro xd\skiplist\skip_list\build\CMakeFiles\2dd39416904b74e7d32e8baa74e71275\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ACB9770A-E78B-3FD2-A9CC-2889DAB6ED42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

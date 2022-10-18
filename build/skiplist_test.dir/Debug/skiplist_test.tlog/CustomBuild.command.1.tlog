@@ -1,0 +1,10 @@
+^G:\MICRO XD\SKIPLIST\SKIP_LIST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SG:/micro xd/skiplist/skip_list" "-BG:/micro xd/skiplist/skip_list/build" --check-stamp-file "G:/micro xd/skiplist/skip_list/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\micro xd\skiplist\skip_list\skiplist\skip_list.h(292,25): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  skiplist_test.vcxproj -> G:\micro xd\skiplist\skip_list\build\Debug\skiplist_test.exe
